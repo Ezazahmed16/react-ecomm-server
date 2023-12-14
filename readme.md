@@ -11,10 +11,11 @@ CRUD
     insertOne() - Single Data Inster
     insertMany() - Multiple Data Insert
 
-3. U
+3. U -> 
+    updateOne()
 
-4. D
-
-
+4. D ->
+    deleteOne()
+    deleteMany()
 
 NB> 1. JWT TOKEN 
